@@ -1,2 +1,2 @@
 # calculator-app
-calculator android app
+simple calculator to perform basic mathematical operations.
