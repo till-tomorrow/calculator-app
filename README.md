@@ -1,6 +1,13 @@
 # calculator-app
 simple calculator to perform basic mathematical operations.
 
+<ol>
+    <li>Performs simple arithmetic calculation</li>
+    <li>Light weight in size</li>
+    <li>Comprehensive Code</li>
+    <li>Good userinterface</li>
+</ol>
+
 HOW TO CONTRIBUTE
 
 Getting started
@@ -14,13 +21,13 @@ Getting started
 
    git checkout -b branch-name
    
-6. Make your changes (choose from any task)
+4. Make your changes (choose from any task)
 
-7. Commit and push
+5. Commit and push
 
    git add .
    git commit -m 'Commit message'
    git push origin branch-name
    
-8. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
+6. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 Wait for your PR review and merge approval!
